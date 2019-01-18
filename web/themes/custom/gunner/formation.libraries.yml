@@ -7,3 +7,6 @@ base-style:
     component:
       css/menubar.css: {}
       css/block.css: {}
+  Js:
+     component:
+       js/menu.js: {}

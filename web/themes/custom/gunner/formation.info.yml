@@ -1,10 +1,10 @@
-name: Formation Drupal
+name: Gunners_Theme
 type: theme
 description: Notre thème pour apprendre le theming
 base theme: classy
 core: 8.x
 libraries:
-  - formation/base-style
+  - gunner/base-style
 regions:
   header: Header
   bonus: 'Région bonus'

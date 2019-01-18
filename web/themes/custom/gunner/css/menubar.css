@@ -1,4 +1,4 @@
-#block-formation-main-menu ul{
+#block-gunners-main-menu ul{
     display: flex;
     flex-direction: row;
     margin: 0;
@@ -7,7 +7,7 @@
     background-color: #333;
 }
 
-#block-formation-main-menu li a{
+#block-gunners-main-menu li a{
 
     display: block;
     color: white;
@@ -16,11 +16,11 @@
     text-decoration: none;
 }
 
-#block-formation-search,
-#block-formation-footer,
-#block-formation-monblocperso,
-#block-formation-tools,
-#block-formation-views-block-issue-meme-projet-block-1
+#block-gunners-search,
+#block-gunners-footer,
+#block-gunners-monblocperso,
+#block-gunners-tools,
+#block-gunners-views-block-issue-meme-projet-block-1
 {
     color:white;
     border: #c8c8c8 solid 1px;
@@ -28,15 +28,15 @@
     padding: 10px;
     background-color: #595959;
 }
-#block-formation-search h2,
-#block-formation-footer h2,
-#block-formation-monblocperso h2,
-#block-formation-tools h2,
-#block-formation-views-block-issue-meme-projet-block-1 h2
+#block-gunners-search h2,
+#block-gunners-footer h2,
+#block-gunners-monblocperso h2,
+#block-gunners-tools h2,
+#block-gunners-views-block-issue-meme-projet-block-1 h2
 {
    font-size: 20px;
 }
-#block-formation-branding
+#block-gunners-branding
 {
 
 display: flex;
