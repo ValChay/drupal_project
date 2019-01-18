@@ -1,0 +1,29 @@
+body {
+    background: #a4a4a4;
+}
+
+main {
+    display: flex;
+}
+.layout-sidebar-first {
+    order: 1
+}
+.layout-content {
+    order: 2
+}
+.layout-sidebar-second {
+    order: 3
+}
+
+.layout-sidebar-first,
+.layout-sidebar-second{
+    flex: 0 0 20%;
+    margin: 0px 40px;
+}
+
+.site-logo img {
+
+    width: 200px;
+    height: 200px;
+}
+

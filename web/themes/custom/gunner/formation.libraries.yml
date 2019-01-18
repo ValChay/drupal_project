@@ -1,0 +1,9 @@
+#premier niveau sera le nom de la bibliothèque
+base-style:
+  css:
+    # niveau SMACSS
+    theme:
+      css/style.css: {}
+    component:
+      css/menubar.css: {}
+      css/block.css: {}

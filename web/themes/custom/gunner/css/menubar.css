@@ -1,0 +1,50 @@
+#block-formation-main-menu ul{
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+#block-formation-main-menu li a{
+
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#block-formation-search,
+#block-formation-footer,
+#block-formation-monblocperso,
+#block-formation-tools,
+#block-formation-views-block-issue-meme-projet-block-1
+{
+    color:white;
+    border: #c8c8c8 solid 1px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #595959;
+}
+#block-formation-search h2,
+#block-formation-footer h2,
+#block-formation-monblocperso h2,
+#block-formation-tools h2,
+#block-formation-views-block-issue-meme-projet-block-1 h2
+{
+   font-size: 20px;
+}
+#block-formation-branding
+{
+
+display: flex;
+    flex-direction: row;
+}
+
+.site-name {
+    margin: auto;
+    font-size: 30px;
+
+}

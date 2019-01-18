@@ -1,0 +1,7 @@
+<?php
+
+function formation_precoces_node(&$variables)
+
+{
+
+}
